@@ -1,5 +1,5 @@
 {
-	"name":"cliffparnitzky/tiny-mce-triathlon-icons",
+	"name":"rsclg/tiny-mce-triathlon-icons",
 	"description":"Special TinyMCE plugin that adds a button for inserting triathlon icons.",
 	"keywords":["contao","tinymce","tiny editor","tinymce plugin","icons","triathlon","tinymce4"],
 	"type":"contao-module",
